@@ -1,3 +1,4 @@
+import 'database/bin/database-migrate';
 import app from 'app';
 import config from 'config';
 
