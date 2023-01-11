@@ -30,7 +30,7 @@
     "ajv-errors": "^1.0.1",
     "config": "^3.3.0",
     "easy-http-errors": "^2.0.0",
-    "knex": "^0.20.11",
+    "knex": "^2.4.0",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "objection": "^2.1.3",
